@@ -1,4 +1,3 @@
-<code>
 <!DOCTYPE html>
 <html>
 <head>
@@ -28,4 +27,3 @@
 	<p>Feel free to take a look at my repositories and let me know if you have any feedback or questions. Thanks for stopping by!</p>
 </body>
 </html>
-</code>

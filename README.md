@@ -1,12 +1,20 @@
-### Hello there and welcome to ✨ my GitHub ✨
-- 👋 Hi there, I’m Emanuele Noviello!
-- 🖥 I’m a student developer at 42Roma Luiss
-- 🎓 I'm currently a student at Universitá degli studi di Napoli "Parthenope" studying Computer Science.
-- ⌨️ I’m currently learning:
-<br>![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py)
-<div align="center">
-</div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/emanuele_noviello/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/cult_cobain/" height="30" width="40" /></a>
-</p>
+Welcome to my GitHub profile! 👋
+My name is Emanuele Noviello and I am a student developer at 42Roma Luiss. Currently, I'm studying Computer Science at Università degli studi di Napoli "Parthenope".
+
+💻 Skills
+I have experience in the following programming languages:
+C
+C++
+Java
+Python
+
+🔍 What I'm currently up to
+I'm currently learning new programming languages, techniques and tools to improve my skills as a developer.
+
+📫 How to reach me
+You can contact me via email: manu.noviello@gmail.com
+
+You can also follow me on Instagram:
+<a href="https://www.instagram.com/emanuele_noviello/" target="_blank"><img src="https://img.shields.io/badge/-@emanuele_noviello-833AB4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/emanuele_noviello/"/></a>
+
+Feel free to take a look at my repositories and let me know if you have any feedback or questions. Thanks for stopping by!

@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 👋
 
-My name is Emanuele Noviello and I'm a student developer at 42Roma Luiss. Currently, I'm studying Computer Science at Università degli studi di Napoli "Parthenope".
+My name is Emanuele Noviello and I'm a student developer at 42Roma Luiss. Currently, I'm studying Computer Science at Università  "Pegaso".
 
 ## Skills 🚀
 
